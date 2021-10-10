@@ -7,7 +7,6 @@ Module contains data generator for batch training
          Northeastern University
 """
 
-
 import numpy as np
 from keras.utils import Sequence
 

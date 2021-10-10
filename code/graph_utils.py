@@ -7,7 +7,6 @@ Module loads data and also creates synthetic data
          Northeastern University
 """
 
-import os
 import numpy as np
 from itertools import permutations
 
