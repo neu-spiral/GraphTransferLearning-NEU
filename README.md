@@ -8,7 +8,8 @@
 
 
 ## Acknowledgement 
-This repository contains the source code for the Graph Transfer Learning project developed by the Northeastern University's SPIRAL research group.
+This repository contains the source code for the Graph Transfer Learning project developed by the Northeastern University's SPIRAL research group. This research was generously supported by the National Science Foundation (grants IIS-1741197, CCF-1750539)
+and Google via GCP credit support. 
 
 
 ## Citing This Paper
